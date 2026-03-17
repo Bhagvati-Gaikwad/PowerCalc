@@ -32,12 +32,6 @@ Response returned to Frontend
 
 ---
 
-# Project Workflow
-
-The project was completed in the following steps.
-
----
-
 # Step 1: Create the Frontend Application
 
 A simple **HTML + JavaScript frontend** was created to allow users to input:
